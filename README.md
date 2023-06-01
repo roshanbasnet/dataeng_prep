@@ -1,11 +1,11 @@
 # Data Engineering and Data Analysis Projects
 This repository contains a collection of projects related to data engineering and data analysis. These projects were undertaken during my preparation for a career in data engineering and data analysis. The projects cover various topics and tools, including Power BI, Pyspark, Uber Data Analytics, ETL data pipelines, BigQuery, and data visualization using Looker.
 
-## Power BI Projects
-1. **[Data Professional Survey](https://github.com/roshanbasnet/dataeng_prep/tree/main/PowerBI)**
+## **[Power BI Projects](https://github.com/roshanbasnet/dataeng_prep/tree/main/PowerBI)**
+1. ### Data Professional Survey
 This project is based on the knowledge gained from the @Alextheanalyst YouTube channel. It involves the analysis and visualization of data from a survey conducted among data professionals. The aim of the project is to gain insights into the preferences and trends within the data industry.
 
-2. International Strategic Opportunities Program
+2. ### International Strategic Opportunities Program
 In this project, I worked on analyzing and visualizing data related to an international strategic opportunities program. The project utilizes Power BI to explore and present data insights, allowing stakeholders to make informed decisions.
 
 ## **[Pyspark Projects](https://github.com/roshanbasnet/dataeng_prep/tree/main/PySpark)**
