@@ -8,7 +8,7 @@ The goal of this project is to develop a comprehensive data engineering solution
 
 ## Architecture
 The architecture of the Uber Data Analytics project consists of several key components:
-![Project Architecture](Project architecture.jpg "Project Architecture")
+![Project Architecture](Project_architecture.jpg "Project Architecture")
 
 ## Technology Used
 The following technologies and platforms are utilized in this project:
@@ -26,4 +26,4 @@ Final Analysis Reports:
 
 ## Data Model
 The data model for the Uber Data Analytics project is given in the image below:
-![Uber Data Model](Uber Data Models.png "Uber Data Model")
+![Uber Data Mode](Uber_Data_Models.png "Uber Data Model")
